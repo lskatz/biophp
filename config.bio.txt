@@ -1,0 +1,11 @@
+# lines can be commented in this file by either
+# // or # or ;
+# but the comments cannot comment out a partial line.
+
+# basic constants
+gap=-
+stop=*
+
+# program locations should be either blank (default)
+# or absolutely given
+phredPath=/var/www/mgip/cgi-bin/phred
