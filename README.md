@@ -23,8 +23,8 @@ Installation
 ==============
 To install, unpack all files into a biophp directory. At the beginning of any php file that you want to use biophp with,
 
-    `<? require_once "biophp/Bio.php"; ?>`
+    <? require_once "biophp/Bio.php"; ?>
 
 Documentation
 =============
-[Documentation] is still lacking, but each file is heavily commented.
+Documentation is still lacking, but each file is heavily commented.
