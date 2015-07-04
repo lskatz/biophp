@@ -8,7 +8,7 @@ There is another BioPHP that is much better than this one, labeled as Mark's bio
 
 About
 =====
-This is Lee Katz's set of PHP classes for bioinformatics. This is not related at all to the [http://biophp.org biophp.org] project. [http://esbg.biology.gatech.edu/lab/?page_id=58 Lee Katz] is a PhD student at The Georgia Institute of Technology, in Atlanta, GA, USA.
+This is Lee Katz's set of PHP classes for bioinformatics. This is not related at all to the project at http://biophp.org. Lee Katz ~~is~~ was a PhD student at The Georgia Institute of Technology, in Atlanta, GA, USA.
 
 Functions so far include
 
